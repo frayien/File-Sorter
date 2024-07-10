@@ -33,5 +33,6 @@
 
 # Build
 build/
+out/
 .vscode/
 .vs/
